@@ -126,3 +126,52 @@ To complete this tutorial, you need a GitHub.com account and Internet access. Yo
 
     Tip: Open this guide in a separate browser window (or tab) so you can see it while you complete the steps in the tutorial.
 <<---------------end ----------------->>
+
+
+
+
+
+
+<------------------------------Google Guava Library for Java--------------------------->
+
+The Guava project contains several of Google's core libraries that we rely on in our Java-based projects: collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth. Each of these tools really do get used every day by Googlers, in production services.
+
+But trawling through Javadoc isn't always the most effective way to learn how to make best use of a library. Here, we try to provide readable and pleasant explanations of some of the most popular and most powerful features of Guava.
+
+This wiki is a work in progress, and parts of it may still be under construction.
+
+    Basic utilities: Make using the Java language more pleasant.
+        Using and avoiding null: null can be ambiguous, can cause confusing errors, and is sometimes just plain unpleasant. Many Guava utilities reject and fail fast on nulls, rather than accepting them blindly.
+        Preconditions: Test preconditions for your methods more easily.
+        Common object methods: Simplify implementing Object methods, like hashCode() and toString().
+        Ordering: Guava's powerful "fluent Comparator" class.
+        Throwables: Simplify propagating and examining exceptions and errors.
+    Collections: Guava's extensions to the JDK collections ecosystem. These are some of the most mature and popular parts of Guava.
+        Immutable collections, for defensive programming, constant collections, and improved efficiency.
+        New collection types, for use cases that the JDK collections don't address as well as they could: multisets, multimaps, tables, bidirectional maps, and more.
+        Powerful collection utilities, for common operations not provided in java.util.Collections.
+        Extension utilities: writing a Collection decorator? Implementing Iterator? We can make that easier.
+    Caches: Local caching, done right, and supporting a wide variety of expiration behaviors.
+    Functional idioms: Used sparingly, Guava's functional idioms can significantly simplify code.
+    Concurrency: Powerful, simple abstractions to make it easier to write correct concurrent code.
+        ListenableFuture: Futures, with callbacks when they are finished.
+        Service: Things that start up and shut down, taking care of the difficult state logic for you.
+    Strings: A few extremely useful string utilities: splitting, joining, padding, and more.
+    Primitives: operations on primitive types, like int and char, not provided by the JDK, including unsigned variants for some types.
+    Ranges: Guava's powerful API for dealing with ranges on Comparable types, both continuous and discrete.
+    I/O: Simplified I/O operations, especially on whole I/O streams and files, for Java 5 and 6.
+    Hashing: Tools for more sophisticated hashes than what's provided by Object.hashCode(), including Bloom filters.
+    EventBus: Publish-subscribe-style communication between components without requiring the components to explicitly register with one another.
+    Math: Optimized, thoroughly tested math utilities not provided by the JDK.
+    Reflection: Guava utilities for Java's reflective capabilities.
+    Tips: Getting your application working the way you want it to with Guava.
+        Philosophy: what Guava is and isn't, and our goals.
+        Using Guava in your build, with build systems including Maven, Gradle, and more.
+        Using ProGuard to avoid bundling parts of Guava you don't use with your JAR.
+        Apache Commons equivalents, helping you translate code from using Apache Commons Collections.
+        Compatibility, details between Guava versions.
+        Idea Graveyard, feature requests that have been conclusively rejected.
+        Friends, open-source projects we like and admire.
+        HowToContribute, how to contribute to Guava.
+
+<-------------------------------------End------------------------------------->
