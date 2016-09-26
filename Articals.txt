@@ -175,3 +175,17 @@ This wiki is a work in progress, and parts of it may still be under construction
         HowToContribute, how to contribute to Guava.
 
 <-------------------------------------End------------------------------------->
+
+<------------------------------------Fourth Artical--------------------------->
+Django (/ˈdʒæŋɡoʊ/ JANG-goh)[4] is a free and open-source web framework, written in Python, which follows the model-view-template
+(MVT) architectural pattern.[5][6] It is maintained by the Django Software Foundation (DSF), an independent organization established
+as a 501(c)(3) non-profit.
+
+Django's primary goal is to ease the creation of complex, database-driven websites. Django emphasizes reusability and "pluggability"
+of components, rapid development, and the principle of don't repeat yourself. Python is used throughout, even for settings files
+and data models. Django also provides an optional administrative create, read, update and delete interface that is generated
+dynamically through introspection and configured via admin models.
+
+Some well-known sites that use Django include the Public Broadcasting Service,[7] Pinterest,[8] Instagram,[9] Mozilla,[10]
+The Washington Times,[11] Disqus,[12] Bitbucket,[13] and Nextdoor.[14]
+<---------------------------------------End---------------------------------->
