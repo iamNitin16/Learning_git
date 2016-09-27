@@ -11,3 +11,12 @@ How to take iamNitin16/Learning_git repo into your repository YOUR-USERNAME/Lear
 8. make a pull request to iamNitin16/Learning_git(or two more collabaraters Aditya and Arpit(Aurio)) to add your changes to main repo.
 9. If your pull request is merge than your changes will appear in main repo.
 10. And That's it...........You are done..........Congo............
+
+
+
+Adding your Articles and other Stuff :
+
+1. Create a folder with your name in the root directory. (If it is already there then skip this step.)
+2. Create a seperate file every time you want to add a new article.
+3. Make your articles redable by using some indentations and line breaks.
+4. Follow the above steps to push your articles.
