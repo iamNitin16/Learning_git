@@ -208,10 +208,10 @@ Aurio
 
 --------------------------------------Useless Rant--------------------------------
 git remote -v
-git pull origin master
-
-This didn't work unless I used:
-git fetch upstream
+git pull upstream master
+OR
+git fetch upstream 
+git merge master upstream/master
 
 After using this command "git pull origin master" seems to work properly
 
