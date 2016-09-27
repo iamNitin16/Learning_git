@@ -207,13 +207,15 @@ Aurio
 ---------------------------------------End---------------------------------------
 
 --------------------------------------Useless Rant--------------------------------
-git remote -v
-git pull upstream master
-OR
-git fetch upstream 
-git merge master upstream/master
+$ git remote -v
 
-After using this command "git pull origin master" seems to work properly
+$ git pull upstream master
+
+	OR
+
+$ git fetch upstream 
+$ git merge master upstream/master   // Alternative : $ git rebase upstream/master
+
 
 -Akshat
 ---------------------------------------End-----------------------------------------
