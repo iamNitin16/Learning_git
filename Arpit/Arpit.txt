@@ -1,0 +1,25 @@
+<----------------------------------------GET STARTED WITH GIT---------------------------------------------------------->
+
+This article covers why version control is important, how to install the Git version control system, and how to get started with your first repository. Once you start using Git, you’ll want to throw everything into it, from full-blown apps to blog post drafts, because it’s so easy and versatile.
+Why do I need version control?
+
+While it may be obvious that large development teams should have sophisticated code-management systems to track releases and bugs, and to avoid stepping on each others’ toes, it might not be immediately clear why individuals would need version control—especially designers or writers.
+
+But take a look at a site like Wikipedia, which is built around collaborative user content editing. One of Wikipedia’s best features is the ability to compare two versions of an article. When you do this, you’re actually performing a diff, one of version control’s central concepts. And when you decide to add or change content, you’re committing a revision. With Git, you can add this Wikipedia-like functionality to any folder, and it will automatically start looking for changes in files contained within it, even if they’re not text files. In Git parlance, that folder becomes your repository.
+
+With Git, though, you can do much more. Branching and merging are powerful tools for integrating changes without compromising more stable work that might, for example, be running on a production website. Remotes are copies of whole repositories that are transferred over a network, and are really helpful for collaborating on projects with people both in your office and over the internet.
+No more circus file naming
+
+At the very least, Git can save you the tedium of file name versioning (e.g., avoiding untitled-1-new-v2.html). At best, it can help you work faster by saving your changes, managing different ideas and features in your project, and even serving as a backup strategy. Because Git unobtrusively operates on whole folders, it won’t interfere in your day-to-day work until you explicitly ask it to save a project snapshot at any given time. And permanently removing Git from a folder is just one command away.
+
+Git changes the way you work by making risk cheaper. Unlike haphazard “multiple undo” and “autosave” features common in many editors and graphics packages, Git expects you to control how and when to commit changes to a project, and, in doing so, allows your project to evolve from any one of these changes. Plus, it does this without having any extra administrative debris around versioning (think labels, markers, and extra files) in your project. Any of these changes can be merged automatically, so you never have to repeat yourself or try to figure out how to redo something you overwrote. For this reason, Joel Spolsky called Git a “change control system” instead of a version control system because rather than presenting a project linearly (the “undo” mentality), Git just sees a handful of commits always ready to be reshuffled or squashed together:
+
+    When you manage changes instead of managing versions, merging works better, and therefore, you can branch any time your organizational goals require it, because merging back will be a piece of cake.
+
+In the beginning was the command line
+
+Git is unlike most modern OS-native applications in that there is (mostly) no graphical user interface; it is totally controlled via the command line. This may seem daunting at first, but the few common commands will quickly become second nature. If you’re new to the command line, I highly recommend Dan Benjamin’s screencast, Meet the Command Line, as a quick crash course.
+
+For the more visually inclined, there are a few graphical tools to browse and manipulate Git repositories. Git comes with two programs, one called gitk for browsing your project history, and another called git-gui for adding files and creating commits. With these two mini apps, you won’t need to use the command line interface much; but you may be surprised to find that it is actually quicker to use the Git commands than git-gui or gitk, especially if you upload your project to GitHub, which has an excellent source browser. Mac OS X users should check out GitX, a prettier version of gitk/git-gui to visualize and edit repositories. The official wiki has a comprehensive list of graphical interfaces for Git.
+Housekeeping, before we get started
+<----------------------------------------------------------End------------------------------------------------------------->
