@@ -1,4 +1,4 @@
-Please send some articals to this also:-
+﻿Please send some articals to this also:-
 
 <---------------------First Article---------------------------->
 Marcus Geduld
@@ -200,3 +200,7 @@ JSF 2 uses Facelets as its default templating system. Other view technologies su
 
 Based on a component-driven UI design-model, JavaServer Faces uses XML files called view templates or Facelets views. The FacesServlet processes requests, loads the appropriate view template, builds a component tree, processes events, and renders the response (typically in the HTML language) to the client. The state of UI components and other objects of scope interest is saved at the end of each request in a process called stateSaving (note: transient true), and restored upon next creation of that view. Either the client or the server side can save objects and states.
 <------------------------------------End-------------------------------------->
+
+TEST EDIT - 27/9/2016
+Aurio
+---------------------------------------End---------------------------------------
