@@ -1,4 +1,4 @@
-<----------------------------------------GET STARTED WITH GIT---------------------------------------------------------->
+﻿<----------------------------------------GET STARTED WITH GIT---------------------------------------------------------->
 
 This article covers why version control is important, how to install the Git version control system, and how to get started with your first repository. Once you start using Git, you’ll want to throw everything into it, from full-blown apps to blog post drafts, because it’s so easy and versatile.
 Why do I need version control?
@@ -23,3 +23,6 @@ Git is unlike most modern OS-native applications in that there is (mostly) no gr
 For the more visually inclined, there are a few graphical tools to browse and manipulate Git repositories. Git comes with two programs, one called gitk for browsing your project history, and another called git-gui for adding files and creating commits. With these two mini apps, you won’t need to use the command line interface much; but you may be surprised to find that it is actually quicker to use the Git commands than git-gui or gitk, especially if you upload your project to GitHub, which has an excellent source browser. Mac OS X users should check out GitX, a prettier version of gitk/git-gui to visualize and edit repositories. The official wiki has a comprehensive list of graphical interfaces for Git.
 Housekeeping, before we get started
 <----------------------------------------------------------End------------------------------------------------------------->
+
+
+<--------------What..we have to do this only every day!!------------------------------->
