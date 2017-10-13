@@ -1,4 +1,4 @@
-﻿Please send some articals to this also:-
+﻿Please send some articals to this also:
 
 <---------------------First Article---------------------------->
 Marcus Geduld
@@ -132,7 +132,7 @@ To complete this tutorial, you need a GitHub.com account and Internet access. Yo
 
 
 
-<------------------------------Google Guava Library for Java--------------------------->
+<-------------------------------Google Guava Library for Java---------------------------->
 
 The Guava project contains several of Google's core libraries that we rely on in our Java-based projects: collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth. Each of these tools really do get used every day by Googlers, in production services.
 
@@ -174,9 +174,9 @@ This wiki is a work in progress, and parts of it may still be under construction
         Friends, open-source projects we like and admire.
         HowToContribute, how to contribute to Guava.
 
-<-------------------------------------End------------------------------------->
+<--------------------------------------End-------------------------------------->
 
-<------------------------------------Fourth Artical--------------------------->
+<-------------------------------------Fourth Artical---------------------------->
 Django (/ˈdʒæŋɡoʊ/ JANG-goh)[4] is a free and open-source web framework, written in Python, which follows the model-view-template
 (MVT) architectural pattern.[5][6] It is maintained by the Django Software Foundation (DSF), an independent organization established
 as a 501(c)(3) non-profit.
