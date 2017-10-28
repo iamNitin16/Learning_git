@@ -10,7 +10,7 @@ How to take iamNitin16/Learning_git repo into your repository YOUR-USERNAME/Lear
 7. Now all changes you have made will appear in your github repo.
 8. make a pull request to iamNitin16/Learning_git(or two more collabaraters Aditya and Arpit(Aurio)) to add your changes to main repo.
 9. If your pull request is merge than your changes will appear in main repo.
-10. And That's it...........You are done..........Congo............
+10. And That's it...........You are done..........Congo.............
 
 
 
