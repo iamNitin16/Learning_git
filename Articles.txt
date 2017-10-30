@@ -218,5 +218,7 @@ $ git merge master upstream/master   // Alternative : $ git rebase upstream/mast
 
 
 -Akshat
+$we can use -v to know about any command in detail
+-Nishant
 ---------------------------------------End-----------------------------------------
 
