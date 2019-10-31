@@ -1,4 +1,5 @@
 # Learning_git
+Git is very important to learn.
 How to take iamNitin16/Learning_git repo into your repository YOUR-USERNAME/Learning_git:-
 
 1. Search for iamNitin16/Learning_git repository in serch bar on github.
